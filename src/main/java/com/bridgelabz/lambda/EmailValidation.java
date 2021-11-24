@@ -9,6 +9,7 @@ public class EmailValidation {
 	        Pattern pattern = Pattern.compile(regex);
 	        Matcher matcher = pattern.matcher(email);
 	        return matcher.matches();
+	    }
 	 }
 
-}
+

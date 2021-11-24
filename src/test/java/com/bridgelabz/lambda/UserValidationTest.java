@@ -3,7 +3,7 @@ import org.junit.Assert;
 import org.junit.Test;
 
 public class UserValidationTest {
-	  @Test
+	   @Test
 	    public void firstName_Validation() {
 	        UserValidation validation = new UserValidation();
 	        boolean actualResult = validation.firstName("Manish");

@@ -5,7 +5,7 @@ import java.util.regex.Pattern;
 
 
 public class RegexDemo {
-	  Scanner sc = new Scanner(System.in);
+	 Scanner sc = new Scanner(System.in);
 
 	    public static void main(String[] args) {
 	        RegexDemo regexDemo = new RegexDemo();

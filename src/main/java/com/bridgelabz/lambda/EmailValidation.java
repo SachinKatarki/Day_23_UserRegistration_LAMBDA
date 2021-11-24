@@ -1,7 +1,7 @@
 package com.bridgelabz.lambda;
+
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
-
 
 public class EmailValidation {
 	 public static boolean email(String email) {

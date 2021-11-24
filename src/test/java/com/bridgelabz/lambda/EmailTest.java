@@ -53,5 +53,4 @@ public class EmailTest {
 	        boolean actualResult = validation.email(this.email);
 	        Assert.assertEquals(this.expectedResult, actualResult);
 	    }
-
 }

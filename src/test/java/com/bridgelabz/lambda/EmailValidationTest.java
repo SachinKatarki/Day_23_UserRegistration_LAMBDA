@@ -4,7 +4,7 @@ import org.junit.Test;
 
 
 public class EmailValidationTest {
-	  @Test
+	 @Test
 	    public void email_Validation_One() {
 	        EmailValidation validation = new EmailValidation();
 	        boolean actualResult = validation.email("abc@1yahoo.com");
